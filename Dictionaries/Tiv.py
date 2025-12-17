@@ -1,4 +1,5 @@
-tiv_dictionary = {
+dictionary = {
+    
     "Water": "Mnger",
     "Food": "Ior",
     "House": "Akaa",
@@ -21,6 +22,5 @@ tiv_dictionary = {
     "Day": "Aondo"
 }
 
-print(tiv_dictionary)
 
 
