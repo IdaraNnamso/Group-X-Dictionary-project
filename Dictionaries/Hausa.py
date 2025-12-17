@@ -1,0 +1,22 @@
+hausa_dictionary = {
+    "Water": "Ruwa",
+    "Food": "Abinci",
+    "House": "Gida",
+    "Man": "Namiji",
+    "Woman": "Mace",
+    "Child": "Yaro",
+    "Sun": "Rana",
+    "Moon": "Wata",
+    "Fire": "Wuta",
+    "Tree": "Itace",
+    "Road": "Hanya",
+    "Market": "Kasuwa",
+    "Friend": "Aboki",
+    "Money": "Kudi",
+    "Work": "Aiki",
+    "School": "Makaranta",
+    "Book": "Littafi",
+    "Clothes": "Tufafi",
+    "Dog": "Kare",
+    "Cow": "Saniya"
+}
