@@ -1,4 +1,5 @@
-hausa_dictionary = {
+dictionary = {
+    
     "Water": "Ruwa",
     "Food": "Abinci",
     "House": "Gida",
@@ -20,3 +21,4 @@ hausa_dictionary = {
     "Dog": "Kare",
     "Cow": "Saniya"
 }
+
